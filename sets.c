@@ -6,11 +6,11 @@
 /*   By: nfararan <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/17 19:13:51 by nfararan          #+#    #+#             */
-/*   Updated: 2024/05/17 21:25:33 by nfararan         ###   ########.fr       */
+/*   Updated: 2024/05/18 10:14:58 by nfararan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "scale.h"
+#include "sets.h"
 
 t_complex	complex_new(double x, double y)
 {

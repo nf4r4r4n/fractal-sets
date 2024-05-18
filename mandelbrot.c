@@ -6,11 +6,11 @@
 /*   By: nfararan <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/17 19:36:43 by nfararan          #+#    #+#             */
-/*   Updated: 2024/05/17 20:55:37 by nfararan         ###   ########.fr       */
+/*   Updated: 2024/05/18 10:14:50 by nfararan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "scale.h"
+#include "sets.h"
 
 int	is_mandelbrot(t_complex c)
 {

@@ -6,11 +6,11 @@
 /*   By: nfararan <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/17 21:08:11 by nfararan          #+#    #+#             */
-/*   Updated: 2024/05/17 21:31:31 by nfararan         ###   ########.fr       */
+/*   Updated: 2024/05/18 10:14:40 by nfararan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "scale.h"
+#include "sets.h"
 
 int	is_julia(t_complex z)
 {
